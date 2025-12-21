@@ -1,5 +1,5 @@
 {
-    "name": "justdvlp/laravel-file-manager",
+    "name": "dzonydvlp/laravel-file-manager",
     "description": "File manager for Laravel",
     "keywords": [
         "laravel",
@@ -13,7 +13,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/justdvlp/laravel-file-manager",
+    "homepage": "https://github.com/dzonydvlp/laravel-file-manager",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
